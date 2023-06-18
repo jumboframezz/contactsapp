@@ -1,0 +1,9 @@
+.terraform/
+.terraform.*
+terraform.tfstate
+terraform.tfstate.backup
+.vs/
+az-setup.sh
+Dockerfile
+docker-compose.yaml
+cleanup.sh
